@@ -1,0 +1,10 @@
+npm init
+npm install express mongoose morgan body-parser
+npm install nodemon
+
+npm start
+
+npm install --save multer
+
+Nodejs_Mongodb_CRUD
+Nodejs & Mongodb + Login + CRUD
